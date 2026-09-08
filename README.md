@@ -2,6 +2,11 @@
 
 การฝึกทำโจทย์ LeetCode ทุกวัน เพื่อพัฒนาทักษะด้าน Algorithm และ Data Structures อย่างต่อเนื่อง
 
+
+## MyLeetCodeProfile
+https://leetcode.com/u/aR2rfq1gdh/
+
+
 ---
 
 ## 🎯 เป้าหมาย
