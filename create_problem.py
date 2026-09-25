@@ -1,4 +1,5 @@
 from pathlib import Path
+import re
 
 
 LEVELS = {"1": "easy", "2": "medium", "3": "hard"}
@@ -20,6 +21,7 @@ def main():
         print("กรุณากรอกชื่อโจทย์")
         return
 
+    title = re.sub(r"^(\d+)", lambda match: match.group(1).zfill(4), title)
     filename = title.replace(".", "").replace(" ", "_") + ".py"
     destination = Path(__file__).resolve().parent / level / filename
     try:

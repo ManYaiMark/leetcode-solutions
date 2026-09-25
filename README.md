@@ -86,6 +86,8 @@ leetcode-solutions/
 | 94 | Binary Tree Inorder Traversal |
 | 100 | Same Tree |
 | 101 | Symmetric Tree |
+|3498 | Reverse Degree of a String |
+|3550 | Smallest Index With Digit Sum Equal to Index |
 
 ---
 
@@ -115,6 +117,7 @@ leetcode-solutions/
 | 36 | Valid Sudoku |
 | 38 | Count and Say |
 | 443 | String Compression |
+|1658 | Minimum Operations to Reduce X to Zero |
 
 ---
 
@@ -123,3 +126,4 @@ leetcode-solutions/
 | # | Problem |
 |--:|---------|
 | 4 | Median of Two Sorted Arrays |
+
