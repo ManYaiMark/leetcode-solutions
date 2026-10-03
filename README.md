@@ -92,6 +92,7 @@ leetcode-solutions/
 | 3718 | Smallest Missing Multiple of K |
 | 3498 | Reverse Degree of a String |
 | 3550 | Smallest Index With Digit Sum Equal to Index |
+| 3622 | Check Divisibility by Digit Sum and Product |
 | 3903 | Smallest Stable Index I |
 
 ---
