@@ -89,6 +89,7 @@ leetcode-solutions/
 | 104 | Maximum Depth of Binary Tree |
 | 836 | Rectangle Overlap |
 | 1614 | Maximum Nesting Depth of the Parentheses |
+| 3069 | Distribute Elements Into Two Arrays I |
 | 3718 | Smallest Missing Multiple of K |
 | 3498 | Reverse Degree of a String |
 | 3550 | Smallest Index With Digit Sum Equal to Index |
