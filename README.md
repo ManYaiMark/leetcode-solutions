@@ -88,6 +88,7 @@ leetcode-solutions/
 | 101 | Symmetric Tree |
 | 104 | Maximum Depth of Binary Tree |
 | 836 | Rectangle Overlap |
+| 1021 | Remove Outermost Parentheses |
 | 1614 | Maximum Nesting Depth of the Parentheses |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum |
 | 3069 | Distribute Elements Into Two Arrays I |
