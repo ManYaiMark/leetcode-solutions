@@ -90,6 +90,7 @@ leetcode-solutions/
 | 836 | Rectangle Overlap |
 | 1021 | Remove Outermost Parentheses |
 | 1614 | Maximum Nesting Depth of the Parentheses |
+| 2778 | Sum of Squares of Special Elements |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum |
 | 3069 | Distribute Elements Into Two Arrays I |
 | 3090 | Maximum Length Substring With Two Occurrences |
