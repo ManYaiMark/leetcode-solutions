@@ -5,4 +5,4 @@ class Solution:
         for i in range(n):
             if n % (i+1) == 0 :
                 total += nums[i] * nums[i]
-        return totalv
+        return total
