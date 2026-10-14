@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 20 |
+| 🟢 Easy | 34 |
 | 🟡 Medium | 22 |
 | 🔴 Hard | 1 |
 | **Total** | **43** |
