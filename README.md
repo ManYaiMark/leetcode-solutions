@@ -28,10 +28,10 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 34 |
-| 🟡 Medium | 22 |
+| 🟢 Easy | 35 |
+| 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
-| **Total** | **43** |
+| **Total** | **59** |
 
 ---
 
@@ -92,6 +92,7 @@ leetcode-solutions/
 | 1021 | Remove Outermost Parentheses |
 | 1614 | Maximum Nesting Depth of the Parentheses |
 | 2778 | Sum of Squares of Special Elements |
+| 2913 | Subarrays Distinct Element Sum of Squares I |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum |
 | 3069 | Distribute Elements Into Two Arrays I |
 | 3090 | Maximum Length Substring With Two Occurrences |
