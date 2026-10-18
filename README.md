@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 35 |
+| 🟢 Easy | 36 |
 | 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
 | **Total** | **59** |
@@ -96,10 +96,11 @@ leetcode-solutions/
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum |
 | 3069 | Distribute Elements Into Two Arrays I |
 | 3090 | Maximum Length Substring With Two Occurrences |
-| 3718 | Smallest Missing Multiple of K |
+| 3471 | Find the Largest Almost Missing Integer |
 | 3498 | Reverse Degree of a String |
 | 3550 | Smallest Index With Digit Sum Equal to Index |
 | 3622 | Check Divisibility by Digit Sum and Product |
+| 3718 | Smallest Missing Multiple of K |
 | 3903 | Smallest Stable Index I |
 
 ---
