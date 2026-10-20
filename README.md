@@ -96,7 +96,8 @@ leetcode-solutions/
 | 2913 | Subarrays Distinct Element Sum of Squares I |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum |
 | 3069 | Distribute Elements Into Two Arrays I |
-| 3090 | Maximum Length Substring With Two Occurrences |
+| 3090 | Maximum Length Substring With Two Occurrences | 
+| 3345 | Smallest Divisible Digit Product I |
 | 3471 | Find the Largest Almost Missing Integer |
 | 3498 | Reverse Degree of a String |
 | 3550 | Smallest Index With Digit Sum Equal to Index |
