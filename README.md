@@ -103,6 +103,7 @@ leetcode-solutions/
 | 3550 | Smallest Index With Digit Sum Equal to Index |
 | 3622 | Check Divisibility by Digit Sum and Product |
 | 3718 | Smallest Missing Multiple of K |
+| 3731 | Find Missing Elements |
 | 3863 | Minimum Operations to Sort a String |
 | 3903 | Smallest Stable Index I |
 
