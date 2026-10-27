@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 41 |
+| 🟢 Easy | 42 |
 | 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
 | **Total** | **59** |
@@ -107,6 +107,7 @@ leetcode-solutions/
 | 3731 | Find Missing Elements |
 | 3863 | Minimum Operations to Sort a String |
 | 3903 | Smallest Stable Index I |
+| 3963 | Create Grid With Exactly One Path | 
 
 ---
 
