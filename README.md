@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 42 |
+| 🟢 Easy | 43 |
 | 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
 | **Total** | **59** |
@@ -96,6 +96,7 @@ leetcode-solutions/
 | 2778 | Sum of Squares of Special Elements |
 | 2913 | Subarrays Distinct Element Sum of Squares I |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum |
+| 3014 | Minimum Number of Pushes to Type Word I |
 | 3069 | Distribute Elements Into Two Arrays I |
 | 3090 | Maximum Length Substring With Two Occurrences | 
 | 3345 | Smallest Divisible Digit Product I |
