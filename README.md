@@ -90,6 +90,7 @@ leetcode-solutions/
 | 108 |Convert Sorted Array to Binary Search Tree |
 | 836 | Rectangle Overlap |
 | 1021 | Remove Outermost Parentheses |
+| 1464 | Maximum Product of Two Elements in an Array |
 | 1614 | Maximum Nesting Depth of the Parentheses |
 | 2089 | Find Target Indices After Sorting Array |
 | 2409 | Count Days Spent Together |
