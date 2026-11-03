@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 43 |
+| 🟢 Easy | 44 |
 | 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
 | **Total** | **59** |
@@ -107,6 +107,7 @@ leetcode-solutions/
 | 3622 | Check Divisibility by Digit Sum and Product |
 | 3718 | Smallest Missing Multiple of K |
 | 3731 | Find Missing Elements |
+| 3736 | Minimum Moves to Equal Array Elements III |
 | 3863 | Minimum Operations to Sort a String |
 | 3903 | Smallest Stable Index I |
 | 3963 | Create Grid With Exactly One Path | 
