@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 44 |
+| 🟢 Easy | 45 |
 | 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
 | **Total** | **59** |
@@ -88,6 +88,7 @@ leetcode-solutions/
 | 101 | Symmetric Tree |
 | 104 | Maximum Depth of Binary Tree |
 | 108 |Convert Sorted Array to Binary Search Tree |
+| 628 |Maximum Product of Three Numbers |
 | 836 | Rectangle Overlap |
 | 1021 | Remove Outermost Parentheses |
 | 1464 | Maximum Product of Two Elements in an Array |
