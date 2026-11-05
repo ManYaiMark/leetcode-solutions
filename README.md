@@ -91,6 +91,7 @@ leetcode-solutions/
 | 628 |Maximum Product of Three Numbers |
 | 836 | Rectangle Overlap |
 | 1021 | Remove Outermost Parentheses |
+| 1385 | Find the Distance Value Between Two Arrays |
 | 1464 | Maximum Product of Two Elements in an Array |
 | 1614 | Maximum Nesting Depth of the Parentheses |
 | 2089 | Find Target Indices After Sorting Array |
