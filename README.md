@@ -106,6 +106,7 @@ leetcode-solutions/
 | 3471 | Find the Largest Almost Missing Integer |
 | 3498 | Reverse Degree of a String |
 | 3550 | Smallest Index With Digit Sum Equal to Index |
+| 3536 | Maximum Product of Two Digits |
 | 3622 | Check Divisibility by Digit Sum and Product |
 | 3718 | Smallest Missing Multiple of K |
 | 3731 | Find Missing Elements |
