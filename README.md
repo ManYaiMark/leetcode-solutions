@@ -95,6 +95,7 @@ leetcode-solutions/
 | 1385 | Find the Distance Value Between Two Arrays |
 | 1464 | Maximum Product of Two Elements in an Array |
 | 1614 | Maximum Nesting Depth of the Parentheses |
+| 1979 | Find Greatest Common Divisor of Array |
 | 2089 | Find Target Indices After Sorting Array |
 | 2409 | Count Days Spent Together |
 | 2778 | Sum of Squares of Special Elements |
