@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 47 |
+| 🟢 Easy | 48 |
 | 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
 | **Total** | **59** |
@@ -105,6 +105,7 @@ leetcode-solutions/
 | 3069 | Distribute Elements Into Two Arrays I |
 | 3090 | Maximum Length Substring With Two Occurrences | 
 | 3345 | Smallest Divisible Digit Product I |
+| 3364 | Minimum Positive Sum Subarray  |
 | 3471 | Find the Largest Almost Missing Integer |
 | 3498 | Reverse Degree of a String |
 | 3550 | Smallest Index With Digit Sum Equal to Index |
