@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 48 |
+| 🟢 Easy | 49 |
 | 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
 | **Total** | **59** |
@@ -104,6 +104,7 @@ leetcode-solutions/
 | 3014 | Minimum Number of Pushes to Type Word I |
 | 3069 | Distribute Elements Into Two Arrays I |
 | 3090 | Maximum Length Substring With Two Occurrences | 
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | 
 | 3345 | Smallest Divisible Digit Product I |
 | 3364 | Minimum Positive Sum Subarray  |
 | 3471 | Find the Largest Almost Missing Integer |
