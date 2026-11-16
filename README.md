@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 49 |
+| 🟢 Easy | 50 |
 | 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
 | **Total** | **59** |
@@ -97,6 +97,7 @@ leetcode-solutions/
 | 1614 | Maximum Nesting Depth of the Parentheses |
 | 1979 | Find Greatest Common Divisor of Array |
 | 2089 | Find Target Indices After Sorting Array |
+| 2243 | Calculate Digit Sum of a String |
 | 2409 | Count Days Spent Together |
 | 2778 | Sum of Squares of Special Elements |
 | 2913 | Subarrays Distinct Element Sum of Squares I |
