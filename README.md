@@ -112,7 +112,7 @@ leetcode-solutions/
 | 3498 | Reverse Degree of a String |
 | 3550 | Smallest Index With Digit Sum Equal to Index |
 | 3536 | Maximum Product of Two Digits |
-| 3622 | Check Divisibility by Digit Sum and Product |
+| 3658 | GCD of Odd and Even Sums |
 | 3718 | Smallest Missing Multiple of K |
 | 3731 | Find Missing Elements |
 | 3736 | Minimum Moves to Equal Array Elements III |
