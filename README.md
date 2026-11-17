@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 50 |
+| 🟢 Easy | 51 |
 | 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
 | **Total** | **59** |
@@ -92,6 +92,7 @@ leetcode-solutions/
 | 836 | Rectangle Overlap |
 | 1021 | Remove Outermost Parentheses |
 | 1260 | Shift 2D Grid |
+| 1331 | Rank Transform of an Array |
 | 1385 | Find the Distance Value Between Two Arrays |
 | 1464 | Maximum Product of Two Elements in an Array |
 | 1614 | Maximum Nesting Depth of the Parentheses |
