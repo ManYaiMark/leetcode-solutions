@@ -28,7 +28,7 @@ https://leetcode.com/u/aR2rfq1gdh/
 
 | Level | Count |
 |-------|-------|
-| 🟢 Easy | 52 |
+| 🟢 Easy | 53 |
 | 🟡 Medium | 23 |
 | 🔴 Hard | 1 |
 | **Total** | **59** |
@@ -96,6 +96,7 @@ leetcode-solutions/
 | 1385 | Find the Distance Value Between Two Arrays |
 | 1464 | Maximum Product of Two Elements in an Array |
 | 1614 | Maximum Nesting Depth of the Parentheses |
+| 1967 | Number of Strings That Appear as Substrings in Word |
 | 1979 | Find Greatest Common Divisor of Array |
 | 2089 | Find Target Indices After Sorting Array |
 | 2243 | Calculate Digit Sum of a String |
